@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc49b12e-598e-4b6d-9dc1-917832b9b55c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../0902/0831 Gravity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0902/0901 - 숫자카드.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0902/0901 - 전기버스.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0902/0902 - sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0902/0902 - 색칠하기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0902/0902 - 파리퇴치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0902/SW기본_ 추가문제 - 풍선팡.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0903/0902 - 부분집합의 합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0903/0903 - Ladder 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0903/0903 - 숫자를 정렬하자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../0903/0903 강의 연습문제 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0907 - 회문.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ascii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0720/python_hw_1_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0720/python_ws_1_a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub-front/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../localhub-front/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub-front/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../localhub-front/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub-front/src/components/icons/IconCommunity.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../localhub-front/src/components/icons/IconCommunity.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub-front/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../localhub-front/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../localhub_/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../과제+실습/0729/feature.branch.workflow.practice" beforeDir="false" afterPath="$PROJECT_DIR$/../../과제+실습/0729/feature.branch.workflow.practice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../과제+실습/0730/web_hw_1_2" beforeDir="false" afterPath="$PROJECT_DIR$/../../과제+실습/0730/web_hw_1_2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="3Iyt5hWLFG1IZVFrbuaqESYRs0q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="0907" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc49b12e-598e-4b6d-9dc1-917832b9b55c" name="Default Changelist" comment="" />
+      <created>1788748455186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788748455186</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
