@@ -67,6 +67,6 @@ def bfs(si, sj):
                 q.append((ni,nj))
 
     print("도착지점 발견 못함")
-    return -1
+    return -1   
 
 print(bfs(0,0))
