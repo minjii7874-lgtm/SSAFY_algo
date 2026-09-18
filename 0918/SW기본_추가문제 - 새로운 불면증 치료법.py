@@ -18,4 +18,4 @@ for tc in range(1, T + 1):
             if int(i) in answer:
                 answer.remove(int(i))
 
-    print(f"#{tc} {count}")
+    print(f"#{tc} {num}")
